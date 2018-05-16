@@ -83,3 +83,8 @@ Optional settings:
 [issues-url]: https://github.com/azure/reverse-proxy-dotnet/issues
 [gitter-badge]: https://img.shields.io/gitter/room/azure/iot-solutions.js.svg
 [gitter-url]: https://gitter.im/azure/iot-solutions
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
